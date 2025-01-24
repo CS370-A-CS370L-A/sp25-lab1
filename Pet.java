@@ -32,7 +32,7 @@ public class Pet {
         Pet pet4 = new Pet("Barking", "Human");
 
        
-
+        Pet pet680 = new Pet("Sparky", "Puppy")
         Pet pet5 = new Pet("Leo","Snake")
         Pet pet5= new Pet("hello user", "Robot");
 
