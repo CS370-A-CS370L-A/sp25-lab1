@@ -25,7 +25,7 @@ public class Pet {
         Pet pet1= new Pet("Buddy", "Dog");
         Pet pet2 = new Pet("Quackers", "Duck");
         Pet petHG = new Pet("Waffle", "Cat");
-        Pet pet2= new Pet("Joey", "Turtle);
+        Pet pet5= new Pet("Joey", "Turtle");
         Pet pet3 = new Pet("Quackers", "Duck");
         Pet pet4 = new Pet("Barking", "Human");
 
