@@ -26,11 +26,13 @@ public class Pet {
         Pet pet2= new Pet("Joey", "Turtle);
         Pet pet3 = new Pet("Quackers", "Duck");
         Pet pet4 = new Pet("Barking", "Human");
+        pet pet77 = new Pet ("Bruno", "Dragon");
 
 
         // Print the name of the pet
         System.out.println("Pet's name is: " + pet1.getName());
         System.out.println("The second pet's name is: " + pet2.getName());
         System.out.println("The fourth pet's name is: " + pet4.getName());
+        system.out.printIn("The seventy seven pet's name is: " + pet77.getName());
     }
 }
