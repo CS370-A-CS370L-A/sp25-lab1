@@ -24,16 +24,13 @@ public class Pet {
         // Create a Pet object
         Pet pet1= new Pet("Buddy", "Dog");
         Pet pet2 = new Pet("Quackers", "Duck");
-      
+        Pet pet301 = new Pet("Russell", "Cat");
         Pet pet8000 = new Pet("Johnathan", "Bear");
-
         Pet petHG = new Pet("Waffle", "Cat");
         Pet pet5= new Pet("Joey", "Turtle");
         Pet pet3 = new Pet("Quackers", "Duck");
         Pet pet4 = new Pet("Barking", "Human");
         Pet pet5= new Pet("hello user", "Robot");
-      
-      
         Pet pet10 = new Pet("ssssss", "Snake");
 
 
