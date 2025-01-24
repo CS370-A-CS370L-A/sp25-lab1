@@ -30,6 +30,8 @@ public class Pet {
         Pet pet5= new Pet("Joey", "Turtle");
         Pet pet3 = new Pet("Quackers", "Duck");
         Pet pet4 = new Pet("Barking", "Human");
+        //new code
+        Pet pet90009000 = new Pet("oinks", "Pig")
 
        
 
