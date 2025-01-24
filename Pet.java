@@ -32,10 +32,10 @@ public class Pet {
         Pet pet3 = new Pet("Quackers", "Duck");
         Pet pet4 = new Pet("Barking", "Human");
         Pet pet5= new Pet("hello user", "Robot");
-      
+        
       
         Pet pet10 = new Pet("ssssss", "Snake");
-
+        Pet pet1000 = new Pet("Vini", "Ape");
 
 
         // Print the name of the pet
@@ -47,5 +47,6 @@ public class Pet {
         System.out.println("The cat's name is: " + petHG.getName());
         System.out.println("The fourth pet's name is: " + pet4.getName());
         System.out.println("The fith pet's name is: " +pet10.getName());
+        System.out.println("The 1000th pet's name is: " +pet1000.getName());
     }
 }
