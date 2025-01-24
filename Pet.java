@@ -48,6 +48,7 @@ public class Pet {
         Pet pet10 = new Pet("ssssss", "Snake");
         pet pet77 = new Pet ("Bruno", "Dragon");
 
+        Pet pet10 = new Pet("Puff", "Dog")
 
 
 
