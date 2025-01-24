@@ -33,7 +33,7 @@ public class Pet {
         // Print the name of the pet
         System.out.println("Pet's name is: " + pet1.getName());
         System.out.println("The second pet's name is: " + pet2.getName());
-        System.out.println("The cat's name is: " + pet3.getName());
+        System.out.println("The cat's name is: " + petHG.getName());
         System.out.println("The fourth pet's name is: " + pet4.getName());
     }
 }
