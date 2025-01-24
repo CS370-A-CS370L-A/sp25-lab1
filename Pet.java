@@ -24,6 +24,7 @@ public class Pet {
         // Create a Pet object
         Pet pet1= new Pet("Buddy", "Dog");
         Pet pet2 = new Pet("Quackers", "Duck");
+        Pet pet301 = new Pet("Russell", "Cat");
         Pet pet4 = new Pet("Barking", "Human");
 
         // Print the name of the pet
