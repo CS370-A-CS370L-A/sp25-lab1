@@ -36,7 +36,7 @@ public class Pet {
         Pet pet5 = new Pet("Leo","Snake")
         Pet pet5= new Pet("hello user", "Robot");
 
-        
+        Pet pet32= new Pet("Hello everyone", "Cjay"); 
       
         Pet pet10 = new Pet("ssssss", "Snake");
         Pet pet1000 = new Pet("Vini", "Ape");
