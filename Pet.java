@@ -40,7 +40,7 @@ public class Pet {
         System.out.println("The second pet's name is: " + pet2.getName());
 
         System.out.print("Gabby's pet's name is: " + pet8000.getName());
-
+        System.out.println("The 301 pet's name is: " + pet301.getName());
         System.out.println("The cat's name is: " + petHG.getName());
         System.out.println("The fourth pet's name is: " + pet4.getName());
         System.out.println("The fith pet's name is: " +pet10.getName());
