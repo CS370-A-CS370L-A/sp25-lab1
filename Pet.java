@@ -48,8 +48,10 @@ public class Pet {
         Pet pet10 = new Pet("ssssss", "Snake");
         pet pet77 = new Pet ("Bruno", "Dragon");
 
+        Pet 
 
 
+        
 
         // Print the name of the pet
         System.out.println("Pet's name is: " + pet1.getName());
