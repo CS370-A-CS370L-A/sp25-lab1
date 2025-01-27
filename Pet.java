@@ -49,6 +49,8 @@ public class Pet {
         Pet pet10 = new Pet("ssssss", "Snake");
         pet pet77 = new Pet ("Bruno", "Dragon");
 
+        pet pet7654 = new Pet("carli", "bird");
+
 
 
 
@@ -69,6 +71,8 @@ public class Pet {
         System.out.printIn("The seventy seven pet's name is: " + pet77.getName());
 
         system.out.printIn("The seventy seven pet's name is: " + pet77.getName());
+
+        system.out.println("The 7654 pet's name is: " + pet7654.getName());
 
     }
 }
