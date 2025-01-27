@@ -23,7 +23,8 @@ public class Pet {
     public static void main(String[] args) {
         // Create a Pet object
         Pet pet1= new Pet("Buddy", "Dog");
-        Pet pet2 = new Pet("Quackers", "Duck");
+        Pet pet2 = new Pet("Luna", "Cat");
+        Pet pet3 = new Pet("Quackers", "Duck");
         Pet pet301 = new Pet("Russell", "Cat");
         Pet pet8000 = new Pet("Johnathan", "Bear");
         Pet petHG = new Pet("Waffle", "Cat");
@@ -54,6 +55,7 @@ public class Pet {
         // Print the name of the pet
         System.out.println("Pet's name is: " + pet1.getName());
         System.out.println("The second pet's name is: " + pet2.getName());
+        System.out.println("The second pet's name is: " + pet3.getName());
         System.out.print("Gabby's pet's name is: " + pet8000.getName());
         System.out.println("The 301 pet's name is: " + pet301.getName());
         System.out.print("The pet's name is: " + pet8000.getName());
