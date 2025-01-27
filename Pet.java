@@ -22,7 +22,8 @@ public class Pet {
     // Main method to test the class
     public static void main(String[] args) {
         // Create a Pet object
-        Pet pet1= new Pet("Buddy", "Dog");
+        Pet pet1= new Pet("Buddy", "Cat");
+        
         Pet pet2 = new Pet("Quackers", "Duck");
         Pet pet301 = new Pet("Russell", "Cat");
         Pet pet8000 = new Pet("Johnathan", "Bear");
